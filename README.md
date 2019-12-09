@@ -2,7 +2,7 @@
 * yum install docker
 #### создаем кастомный файл index.html
 #### запускаем сборку образа
-* docker build -t nginx_my .
+* docker build -t alpine .
 #### смотрим образ 
 * docker images
 #### запускаем контейнер 
